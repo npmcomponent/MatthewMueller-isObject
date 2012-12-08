@@ -1,7 +1,7 @@
 
 # isObject
 
-  check if an object is an object
+  check if an variable is an object
 
 ## Installation
 
