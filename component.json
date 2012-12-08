@@ -1,0 +1,13 @@
+{
+  "name": "isObject",
+  "repo": "matthewmueller/isObject",
+  "description": "check if an variable is an object",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
